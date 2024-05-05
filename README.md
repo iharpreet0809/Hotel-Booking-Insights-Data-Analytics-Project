@@ -17,11 +17,11 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 Provided Mock-up Dashboard
 
 # Data Model
-![Data Model]()
+![Data Model](https://github.com/iharpreet0809/Hotel-Booking-Insights-Data-Analytics-Project/blob/master/Images/data_model.png)
 # Overall Analysis View
-![Screeb shot 1 ]()
+![Screeb shot 1 ](https://github.com/iharpreet0809/Hotel-Booking-Insights-Data-Analytics-Project/blob/master/Images/P1.png)
 # Monthly Analysis View
-![Screenshot 2]()
+![Screenshot 2](https://github.com/iharpreet0809/Hotel-Booking-Insights-Data-Analytics-Project/blob/master/Images/p2.png)
 # Learnt things from this Project
 Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. (Article referred)
 By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
