@@ -1,6 +1,6 @@
 # AtliQ Hospitality Analysis - PowerBI
 
-This is a project I replicated from Codebasics PowerBi Youtube playlist. You can find the link of the playlist below.
+This is a project I do  from Codebasics tasks PowerBi Youtube playlist. You can find the link of the playlist below.
 
 Codebasics [Youtube Playlist](https://www.youtube.com/watch?v=tT4V7zguCnc&list=PLeo1K3hjS3uv_e0HUEu1CVCOikPay64p8)
 
